@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xinke Zhan"
-description              : ""
-repository               : "TorchZhan/torchzhan.github.io"
+description              : "Focusing on Protein-peptide prediction and peptide design "
+repository               : "torchzhan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
