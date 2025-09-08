@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhan Xinke"
-  avatar           : "images/1.jpeg"
+  avatar           : "images/1.png"
   bio              : "Macao Polytechnic University Faculty of Applied Sciences (🇨🇳🇲🇴澳门理工大学应用科学学院) | Protein-peptide prediction & peptide design"
   location         : "Macau, China"
   employer         :
