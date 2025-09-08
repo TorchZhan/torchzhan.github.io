@@ -23,20 +23,20 @@ I am a 2nd-year Phd student from the Macao Polytechnic University (MPU). My rese
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 A paper is accepted by **Digital Discovery** (IF:5.6, JCR Q1).
-- *2022.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent
-Computing (ICIC 2025, CCF-C)**.
+- *2025.08*: &nbsp;🎉🎉 A paper is accepted by **Digital Discovery** <span style="color:blue">(IF:5.6, JCR Q1)</span>.
+- *2022.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent Computing (ICIC 2025, <span style="color:blue">(CCF-C)</span>)**.
 
 # 📝 Publications 
 Selected publications are listed below, focusing on some research tasks: Drug-target interaction prediction, anticancer peptide prediction....
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Discovery</div><img src='images/MAARDTI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>Digital Discovery</em></div><img src='images/MAARDTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAARDTI: A multi-perspective attention aggregating model for the prediction of drug-target interactions](waiting)
+
 **Xinke Zhan**, Tiantao Liu, Changqing Yu, Yu-An Huang, Zhuhong You, Shirley W. I. Siu
 
-[**Code**](https://github.com/TorchZhan/MAARDTI) [**Zenodo**](https://zenodo.org/records/16936305)
+[Github: [**Code**](https://github.com/TorchZhan/MAARDTI)] [Zenodo: [**Zenodo**](https://zenodo.org/records/16936305)]
 
 - MAAR module that providing a more comprehensive representation of the interactions between drugs and proteins.
 - The superior prediction results of our method demonstrate the effectiveness of MAARDTI in predicting DTIs. 
@@ -44,11 +44,12 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">the 2025 International Conference on Intelligent
-Computing</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>The 2025 International Conference on Intelligent
+Computing</em></div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CALM-AcPEP:Predicting Anticancer Peptides Using Cross-Attention and Pre-Trained Language Model](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_19)
+
 **Xinke Zhan**, Tiantao Liu, Pratiti Bhadra, Yu-An Huang, Zhuhong You, Shirley W. I. Siu
 
 - A deep learning framework based on the ACmix module,Evolutionary Scale Modeling 2 (ESM2) and cross-attention.
