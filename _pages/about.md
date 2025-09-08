@@ -44,8 +44,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>The 2025 International Conference on Intelligent
-Computing</em></div><img src='images/CALM.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>The 2025 ICIC</em></div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CALM-AcPEP:Predicting Anticancer Peptides Using Cross-Attention and Pre-Trained Language Model](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_19)
