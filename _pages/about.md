@@ -59,7 +59,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Tiantao Liu. [Data-driven revolution of enzyme catalysis from the perspective of reactions, pathways, and enzymes](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00065-7), <em>**Cell Reports Physical Science (CRPS)**</em>, 2025.
 
 # 🎖 Honors and Awards
 - *2024.08*, Half-scholarship of the Macao Polytechnic University (2024-2027).
