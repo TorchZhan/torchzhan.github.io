@@ -34,7 +34,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>Digital Discovery</em></div><img src='images/MAARDTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MAARDTI: A multi-perspective attention aggregating model for the prediction of drug-target interactions](https://www.rsc.org/publishing/journals/digital-discovery) [<span style="color:red">**Accepted**</span>]
+[MAARDTI: A multi-perspective attention aggregating model for the prediction of drug-target interactions,](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00311c) [<span style="color:red">**doi:10.1039/D5DD00311C**</span>]((https://doi.org/10.1039/D5DD00311C))
 
 **Xinke Zhan**, Tiantao Liu, Changqing Yu, Yu-An Huang, Zhuhong You, Shirley W. I. Siu
 
