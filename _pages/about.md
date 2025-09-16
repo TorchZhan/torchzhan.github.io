@@ -24,9 +24,12 @@ I am a 2nd-year Phd student from the <a href='https://www.mpu.edu.mo/'>**Macao P
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 A paper is accepted by **Digital Discovery** [<span style="color:red">IF:5.6, JCR Q1</span>]
 - *2025.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent Computing [ICIC 2025, <span style="color:red">CCF-C</span>]**
+- *2025.03*: &nbsp;🎉🎉 A paper **[Liu et al., 2025]** is accepted by **Cell Reports Physical Science (CRPS)** [<span style="color:red">IF:7.3, JCR Q1</span>]
 
 # 📝 Publications 
 Selected publications are listed below, focusing on some research tasks: Drug-target interaction prediction, anticancer peptide prediction....
+
+## 2025 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>Digital Discovery</em></div><img src='images/MAARDTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +59,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.08*, Half-scholarship of the Macao Polytechnic University (2024-2027).
